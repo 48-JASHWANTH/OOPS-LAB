@@ -17,7 +17,7 @@ class MatrixMul {
     System.out.println("Enter values for 2nd matrix:");
     for(int i=0;i<3;i++){
       for(int j=0;j<3;j++){
-	b[i][j] = s.nextInt();	q
+	b[i][j] = s.nextInt();	
       }
     }
     
